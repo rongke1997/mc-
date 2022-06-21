@@ -1,1 +1,1 @@
-利用  进行mc种子检索，更友好的mc前期。
+利用Cubiomes-viewer进行mc种子检索，更友好的mc前期。
